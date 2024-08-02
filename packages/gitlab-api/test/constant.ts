@@ -1,0 +1,1 @@
+export const PRIVATE_TOKEN = 'tAj5zRArfpYNDo22aYXk';
